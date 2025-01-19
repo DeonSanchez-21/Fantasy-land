@@ -5,7 +5,7 @@ import Rank_list from "../components/rank_list"
 
 const Home = () => {
   return (
-    <Box sx={{backgroundColor:'skyblue', minHeight:'100vh', m:0}}>
+    <Box sx={{backgroundColor:'#001F3F', minHeight:'100vh', m:0}}>
       <Rank_list/>
     </Box>
   )
